@@ -4,6 +4,6 @@ This is a two-part project that analyzes profit and losses for a bank, and the r
 
 This code was written in Python VS Code and should be run in the same environment for optimal results.
 
-The code written here is my work, although I did receive plenty of input and advice from fellow students, our instructors, and our tutors for the program.
+The code written here is my original work.
 
 Thanks!
