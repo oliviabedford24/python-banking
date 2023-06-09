@@ -1,4 +1,4 @@
-# python-challenge
+# python-banking
 
 This is a two-part project that analyzes profit and losses for a bank, and the results from an election for political office. The code is contained in the main.py files for each folder, and the analysis/output are contained in text files in the "analysis" folders for PyBank and PyPoll.
 
